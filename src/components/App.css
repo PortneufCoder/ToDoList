@@ -1,0 +1,30 @@
+body {
+  
+  background-image: url("../checklist.jpg");
+}
+
+#task {
+
+  margin-left: 12px;
+}
+
+.text-center {
+  margin-bottom: 26px;
+}
+
+
+.btn btn-primary {
+  margin-top: 25px;
+}
+
+#heading {
+  font-weight: bold;
+  font-family: cursive;
+  margin-top: 25px;
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
